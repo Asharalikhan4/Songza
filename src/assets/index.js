@@ -1,7 +1,7 @@
 import loader from './loader.svg';
-import logo3 from "./logo3.svg";
+import logo from "./logo.svg";
 
 export {
-  logo3,
+  logo,
   loader,
 };
